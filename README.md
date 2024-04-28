@@ -2,9 +2,11 @@
 
 Flutter project for Midterm, Mobile Application Class.
 
+```
 Name    : Reynaldhi Tryana Graha
 NIM     : 1101213117
 Class   : TT-44-GAB1
+```
 
 ## Getting Started
 
